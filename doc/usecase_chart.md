@@ -49,6 +49,8 @@ ChatGPTのプロンプトを用いてユースケースの洗い出しを行い�
 4. **ユースケース図の生成(ChatGPT→あなた)**
    - ChatGPTによるユースケース図の生成と表示
 
+Web版のChatGPTを利用した生成例を以下に示します。
+![Uploading screencapture-chat-openai-c-8466a1e5-a162-4ba0-a1ad-96e6ad46ad20-2023-09-22-15_19_06 (1).png…]()
 
 
 ## ベストプラクティスと注意点
